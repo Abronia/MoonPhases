@@ -1,0 +1,23 @@
+{
+    "name": "Third Quarter Moon",
+    "description": "Exactly half of the Moon is illuminated and the other half is shadowed. We will see the opposite side than the First Quarter Moon.",
+    "image": "https://ipfs.io/ipfs/QmXpADRuE1x4GVE3YxZmXrPDxbJD9WmFuP67FLucK3EbQr?filename=third-quarter.png",
+    "attributes": [
+        {
+            "trait_type": "Brightness",
+            "value": 46
+        },
+        {
+            "trait_type": "Size",
+            "value": 55
+        },
+        {
+            "trait_type": "Glow",
+            "value": 54
+        },
+        {
+            "trait_type": "Experience",
+            "value": 0
+        }
+    ]
+}

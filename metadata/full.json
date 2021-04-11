@@ -1,0 +1,23 @@
+{
+    "name": "Full Moon",
+    "description": "The Sun illuminates the entire moon.",
+    "image": "https://ipfs.io/ipfs/QmT6Lx664579oxXYybVV1xfgBhwQY4NZ5AdYjL9aTy2Ut3?filename=full-moon.png",
+    "attributes": [
+        {
+            "trait_type": "Brightness",
+            "value": 84
+        },
+        {
+            "trait_type": "Size",
+            "value": 86
+        },
+        {
+            "trait_type": "Glow",
+            "value": 19
+        },
+        {
+            "trait_type": "Experience",
+            "value": 0
+        }
+    ]
+}

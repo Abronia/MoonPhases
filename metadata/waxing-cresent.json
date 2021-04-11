@@ -1,0 +1,23 @@
+{
+    "name": "Waxing Cresent Moon",
+    "description": "‘Waxing’ means the Moon’s illumination is growing, and ‘Crescent’ means less than half of the Moon is illuminated.",
+    "image": "https://ipfs.io/ipfs/QmUr4CFX81x89fdNEhz7DSJKZutyRKBuKcznKS9hHTpWwT?filename=waxing-cresent.png",
+    "attributes": [
+        {
+            "trait_type": "Brightness",
+            "value": 32
+        },
+        {
+            "trait_type": "Size",
+            "value": 45
+        },
+        {
+            "trait_type": "Glow",
+            "value": 50
+        },
+        {
+            "trait_type": "Experience",
+            "value": 0
+        }
+    ]
+}

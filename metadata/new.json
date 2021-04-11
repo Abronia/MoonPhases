@@ -1,0 +1,23 @@
+{
+    "name": "New Moon",
+    "description": "The Moon is positioned between the Earth and Sun so it cannot be seen from Earth.",
+    "image": "https://ipfs.io/ipfs/QmVurPw45gLqtDmHu9gudkVJLAmYxTdUs3CfkkQHGenpdL?filename=new.png",
+    "attributes": [
+        {
+            "trait_type": "Brightness",
+            "value": 90
+        },
+        {
+            "trait_type": "Size",
+            "value": 74
+        },
+        {
+            "trait_type": "Glow",
+            "value": 96
+        },
+        {
+            "trait_type": "Experience",
+            "value": 0
+        }
+    ]
+}

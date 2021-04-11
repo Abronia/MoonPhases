@@ -1,0 +1,23 @@
+{
+    "name": "Waning Cresent Moon",
+    "description": "‘Waning’ refers to the shrinking of the Moon’s illumination, and ‘Crescent’ means less than half of the Moon is illuminated.",
+    "image": "https://ipfs.io/ipfs/QmU2urWb2QeUrbcayRLHKyKQdGm7RC1qid7YDuNn5qKWoM?filename=waning-cresent.png",
+    "attributes": [
+        {
+            "trait_type": "Brightness",
+            "value": 23
+        },
+        {
+            "trait_type": "Size",
+            "value": 32
+        },
+        {
+            "trait_type": "Glow",
+            "value": 15
+        },
+        {
+            "trait_type": "Experience",
+            "value": 0
+        }
+    ]
+}

@@ -1,9 +1,9 @@
-const DungeonsAndDragons = artifacts.require('DungeonsAndDragonsCharacter')
+const MoonCreation = artifacts.require('MoonPhase')
 
 module.exports = async callback => {
-    const dnd = await DungeonsAndDragons.deployed()
+    const mon = await MoonCreation.deployed()
     console.log('Let\'s get the overview of your character')
-    const overview = await dnd.characters(0)
+    const overview = await mon.characters(0)
     console.log(overview)
     callback(overview.tx)
 }

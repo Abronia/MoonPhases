@@ -1,0 +1,23 @@
+{
+    "name": "First Quarter Moon",
+    "description": "Exactly half of the Moon is illuminated and the other half is shadowed.",
+    "image": "https://ipfs.io/ipfs/QmUe5RxZuYaXTsoRcLjWdFyuibkJdYi9aC5SMkegv9heY2?filename=first-quarter.png",
+    "attributes": [
+        {
+            "trait_type": "Brightness",
+            "value": 53
+        },
+        {
+            "trait_type": "Size",
+            "value": 54
+        },
+        {
+            "trait_type": "Glow",
+            "value": 2
+        },
+        {
+            "trait_type": "Experience",
+            "value": 0
+        }
+    ]
+}
