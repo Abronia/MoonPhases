@@ -1,7 +1,7 @@
 # Moon Phase NFT
 
 ## Idea
-My NFT creator uses Chainlink VRF to generate a random number that will determine the Moon Cycle a user will recieve when minting their NFT. 
+My NFT creator uses Chainlink VRF to generate a random number that will determine the Moon Cycle a user will receive when minting their NFT. 
 
 ## Links
 https://rinkeby.etherscan.io/address/0x52ef038c237e24e406cc230be293dbc9da30e4ab
